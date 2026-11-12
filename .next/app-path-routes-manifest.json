@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/api/send-email/route": "/api/send-email",
+  "/book-appointment/page": "/book-appointment",
+  "/contact/page": "/contact",
+  "/doctors/drbaburashraf/page": "/doctors/drbaburashraf",
+  "/doctors/drharoonashraf/page": "/doctors/drharoonashraf",
+  "/doctors/drjannatvohra/page": "/doctors/drjannatvohra",
+  "/doctors/drkashifnaqvi/page": "/doctors/drkashifnaqvi",
+  "/doctors/drlaibaishaque/page": "/doctors/drlaibaishaque",
+  "/favicon.ico/route": "/favicon.ico",
+  "/gallery/page": "/gallery",
+  "/page": "/",
+  "/services/page": "/services"
+}

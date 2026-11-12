@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/api/send-email/route": "app/api/send-email/route.js",
+  "/book-appointment/page": "app/book-appointment/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/doctors/drbaburashraf/page": "app/doctors/drbaburashraf/page.js",
+  "/doctors/drharoonashraf/page": "app/doctors/drharoonashraf/page.js",
+  "/doctors/drjannatvohra/page": "app/doctors/drjannatvohra/page.js",
+  "/doctors/drkashifnaqvi/page": "app/doctors/drkashifnaqvi/page.js",
+  "/doctors/drlaibaishaque/page": "app/doctors/drlaibaishaque/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/gallery/page": "app/gallery/page.js",
+  "/page": "app/page.js",
+  "/services/page": "app/services/page.js"
+}
